@@ -10,6 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.15.3",
     "@supabase/supabase-js": "^2.58.0",
     "jspdf": "^2.5.2",
     "lucide-react": "^0.469.0",
